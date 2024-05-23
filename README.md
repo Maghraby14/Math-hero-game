@@ -23,7 +23,7 @@ Math Hero is a game created using the OpenGL library, where players solve simple
    - The user inputs an answer by typing a number on the keyboard and pressing the Enter key. If the answer is correct, the score increments by one; if incorrect, no change occurs.
    - After 60 seconds, the game stops automatically, and a window appears displaying the user's final score and rank.
 
-      **Figure 3 - Score Page**
+      
       <img src="3.png" alt="Menu" width="500px">
 
    - The user can press the F1 key to restart the game or the F2 key to return to the main menu.
@@ -32,7 +32,7 @@ Math Hero is a game created using the OpenGL library, where players solve simple
 
 4. If the HIGHSCORES button is selected from the menu, the top 5 scores are shown.
 
-   **Figure 4 - Highscores Window**
+   
    <img src="4.png" alt="Menu" width="500px">
 
 ### Quitting the Game
